@@ -1,24 +1,20 @@
-Welcome to Lumache's documentation!
+欢迎阅读*AmazonMWS*！
 ===================================
+该文档主要是为了记录使用MWS过程中的经验, 如果有不正确的地方, 欢迎大家指导修改。
+本文目前默认各位读者大大已经有开发者账号,并成功进行了店铺授权, 可以进行接口访问了。
+本文并不是一次性完成, 而是在使用过程中不断完善。 各位读者大大如果有兴趣的话, 欢迎加入。
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**MWS**中将API分为了如下几个模块:
+*这里目前仅列出当前调研的部分*
+1. :doc: `Reports`
 
 .. note::
 
-   This project is under active development.
+   后续看情况, 会补充授权相关内容
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-
-## 标题1
+   Reports
